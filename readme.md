@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16730594-4fc2-4aff-b955-802586452765" alt="Queater Banner" width="100%" height="250px">
+  <img src="https://github.com/user-attachments/assets/16730594-4fc2-4aff-b955-802586452765" alt="Queater Banner" width="100%" height="240px">
 </p>
 
 
